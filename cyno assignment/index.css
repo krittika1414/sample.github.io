@@ -1,0 +1,188 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+
+}
+#services1{
+    padding:7% 15%;
+    background-color: #fff;
+    position:relative;
+    z-inder:1;
+  }
+.services-box{
+
+  padding:5%;
+}
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-family:bold;
+  margin-top:15px;
+}
+h4,h6{
+  font-family: 'Montserrat', sans-serif;
+  padding:20px 40px;
+  text-align:center;
+}
+.heading{
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.nav-item{
+  padding:20px 18px;
+
+}
+.nav-item a{
+  color:black;
+}
+#services{
+
+  padding:40px 150px;
+
+}
+
+.main{
+  display:inline;
+}
+.search{
+  text-align:center;
+  padding-top:20px;
+}
+.search i{
+            position: relative;
+            left: 25px;
+            color: gray;
+        }
+.search-bar{
+
+  height:35px;
+  width:450px;
+  border-radius: 50px;
+  padding:0px 30px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  background-color: lightgrey;
+}
+.no-outline:focus {
+        outline: none;
+      }
+.navigation
+{
+  margin-top:20px;
+  width:100%;
+  background-color: lightgrey;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+.img-first img{
+  width:100%;
+  display:block;
+}
+#features{
+  margin-top:-200px;
+  padding:70px;
+  text-align:justify;
+
+}
+.first img{
+  border:3px solid black;
+  border-radius:25px;
+}
+.feature-box{
+}
+#vision{
+  background-image: url('img1.jpg');
+  opacity: 0.5;
+  padding:100px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+
+
+}
+.vision-box{
+  background-color:black;
+    text-align:center;
+    color:#fff;
+    height:350px;
+    display:block;
+    padding: 50px 20px;
+    opacity:0.8;
+
+}
+.vision-box i{
+  padding:10px;
+}
+.vision-main-box{
+  border:4px solid grey;
+}
+#footer{
+  background-color:#333333;
+  color:white;
+  text-align:center;
+
+}
+.last-footer{
+  
+  Padding-top:10px;
+  padding-left:10px;
+}
+.social-icon{
+  margin:20px 25px;
+}
+@media only screen and (max-width: 600px) {
+  .search h2{
+    text-align:center;
+  }
+  .search i {position: relative;
+  left: -204px;
+top:34px;}
+.search-bar{
+  height:40px;
+  width:350px;
+  padding:0px 35px;
+}
+#features{
+  margin-top:10px;
+  padding:20px 0;
+}
+.first{
+  margin-top:15px;
+}
+#services{
+
+  padding:20px 20px;
+
+}
+.s1 img{
+      margin-bottom: 20px;
+}
+#vision{
+  padding:0;
+  background-size: 100% 100%;
+
+
+
+}
+.vision-box{
+background-color:black;
+    height:325px;
+    display:block;
+    padding: 10px 20px;
+    opacity:0.8;
+    margin:20px 20px;
+
+
+}
+
+}
